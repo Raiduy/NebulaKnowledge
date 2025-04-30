@@ -1,0 +1,2 @@
+The API documentation for the Nebula API is available via the Open WebUI project that Nebula is built on.
+The documentation can be found at [https://docs.openwebui.com/getting-started/api-endpoints](https://docs.openwebui.com/getting-started/api-endpoints). 
